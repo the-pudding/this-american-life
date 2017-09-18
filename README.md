@@ -1,4 +1,6 @@
 # this-american-life
+Methodology and data for [Listen to Her](https://pudding.cool/09/17/this-american-life), a piece about the gender imbalance on the popular radio program, This American Life.
+
 ## `/python`
 Python scripts to scrape and format data from thisamericanlife.org
 Also contains gender classification scripts
